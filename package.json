@@ -1,0 +1,23 @@
+{
+  "name": "japabot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "japabot2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyhojun/japabot2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyhojun/japabot2/issues"
+  },
+  "homepage": "https://github.com/anthonyhojun/japabot2#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "twit": "^2.2.11"
+  }
+}
